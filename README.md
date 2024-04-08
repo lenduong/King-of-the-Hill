@@ -11,6 +11,9 @@ the development process harder:
 More details regarding the car can be found in my lab report, including different design
 iterations throughout the evolution of our car.
 
+# DEMO 
+A demo video has been uploaded below files!
+
 # DISCLAIMER
 While most of the car's code and electrical design were my effort, I was also collaborating with my
 teammates to carry out this project, which in turn has helped improve my skills in effectively
